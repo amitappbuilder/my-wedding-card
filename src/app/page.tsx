@@ -70,7 +70,7 @@ export default function WeddingVideoCard() {
             {/* Text below – unchanged */}
             <div className="mt-10 text-center">
                 <h1 className="text-5xl font-bold text-gray-800 mb-2">
-                    Sakshum & Akansha
+                    Sakshum & Akanksha
                 </h1>
                 <p className="text-3xl text-purple-700 font-medium mb-6">
                     are getting married!
@@ -79,6 +79,11 @@ export default function WeddingVideoCard() {
                     <p>17th April 2025</p>
                     <p>9:00 AM onwards</p>
                     <p>Brooklake Country Club, NJ</p>
+                    <p>...</p>
+                    <p>Reception</p>
+                    <p>18th April 2025</p>
+                    <p>Cocktail hours 7:00 PM onwards</p>
+                    <p>The Merion, NJ</p>
                 </div>
 
                 <div className="flex justify-center gap-3 mt-8">
